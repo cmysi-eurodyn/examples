@@ -6,7 +6,8 @@ import jakarta.enterprise.inject.Alternative;
 
 /**
  * Alternative implementation with priority 100.
- * When multiple alternatives are enabled, this creates an ambiguous dependency.
+ * This alternative has the highest priority and will be selected by CDI
+ * when multiple alternatives with @Priority are present.
  */
 @Alternative
 @Priority(100)

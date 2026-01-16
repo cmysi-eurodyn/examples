@@ -6,7 +6,8 @@ import jakarta.enterprise.inject.Alternative;
 
 /**
  * Alternative implementation with priority 99.
- * When multiple alternatives are enabled, this creates an ambiguous dependency.
+ * This alternative has lower priority than HighPriorityGreetingService
+ * and will not be selected when both alternatives are present.
  */
 @Alternative
 @Priority(99)
