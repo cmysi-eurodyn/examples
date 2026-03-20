@@ -1,0 +1,5 @@
+I’m Charalampos Mysirlidis (cmysi-eurodyn): Senior Java Developer & Team Lead with 10+ years in large, long-lived government eProcurement enterprise systems. Daily stack is legacy/traditional Java EE (JEE7-era): EJB3, JPA/Hibernate, PostgreSQL, Struts 1, WildFly 20, and remote Artemis. Integration work uses Apache Camel 4.8.1 via Spring Boot (org.apache.camel.springboot). Reporting/BI: JasperReports 6.5.1 (experimenting with JaxenXmlDataSource) and Knowage BI.
+
+I care about system/architecture-level behavior (transactions/flush boundaries, performance, security layers, thread safety) and SQL/query optimization. I’m actively exploring AI-assisted development and practical enterprise use of LLMs (RAG, vector DBs, agents, auditability), including codebase semantic search and autonomous/internal PoC tooling.
+
+Response preferences: deep technical explanations, architectural reasoning, explicit trade-offs, production-grade examples, and enterprise-oriented recommendations. Primary goal: modernize beyond legacy JEE7 stagnation, boost productivity with AI, and build intelligent internal tools/PoCs.
